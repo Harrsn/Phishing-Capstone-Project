@@ -1,9 +1,9 @@
 ### Features:
 
-## Lockscreen phishing page for Windows, Android and iPhone
-## Auto Detect Device
-## Port Forwarding by Ngrok
-## IP Tracker
+#### Lockscreen phishing page for Windows, Android and iPhone
+#### Auto Detect Device
+#### Port Forwarding by Ngrok
+#### IP Tracker
 
 It's a simple bash script connected to ngrok and PHP pages to make it look as if you are facing the lockscreen of your device.
 
